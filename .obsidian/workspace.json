@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "82c9ad4c65d64d49",
+    "type": "split",
+    "children": [
+      {
+        "id": "50ddca6317ca5e3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9804a121fc4508fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "935952e5ed2d044b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b96de08e2edcd85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb8fe4d373d4b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "0c0c8f94ce292aa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "d36573425b1caa95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2d2b2dbc609149b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e26736a785f39972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b665fa674b7dc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "バックリンク"
+            }
+          },
+          {
+            "id": "2e6d3db4b6e477ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "a90f6cf94b93b3fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b5d62895a0c6a8b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "74d2424e16fbcd4d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false,
+      "line-notes-sync:Sync LINE messages": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+    }
+  },
+  "active": "9804a121fc4508fa",
+  "lastOpenFiles": [
+    "無題のファイル.md",
+    "Zettelkasten/LiteratureNote/佐藤航陽-お金2.0　新しい経済のルールと生き方.md",
+    "Zettelkasten/LiteratureNote/安宅和人-イシューからはじめよ――知的生産の「シンプルな本質」.md",
+    "Zettelkasten/LiteratureNote/奉之-ＳＨＯＥ　ＤＯＧ（シュードッグ）―靴にすべてを。.md",
+    "Zettelkasten/LiteratureNote/ジェイソン・カラカニス、滑川海彦、高橋信夫、孫泰蔵-エンジェル投資家 リスクを大胆に取り巨額のリターンを得る人は何を見抜くのか.md",
+    "Zettelkasten/LiteratureNote/冨田和成-営業 野村證券伝説の営業マンの「仮説思考」とノウハウのすべて.md",
+    "Zettelkasten/LiteratureNote/高田貴久、岩澤智之-問題解決 ― あらゆる課題を突破する ビジネスパーソン必須の仕事術.md",
+    "Zettelkasten/LiteratureNote/北野唯我-天才を殺す凡人 職場の人間関係に悩む、すべての人へ.md",
+    "Zettelkasten/LiteratureNote/一希-たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）.md",
+    "Zettelkasten/LiteratureNote/隆生（序文）-HARD THINGS　答えがない難問と困難にきみはどう立ち向かうか.md",
+    "Zettelkasten/LiteratureNote/トーマス・ラッポルト、赤坂桃子-ピーター・ティール 世界を手にした「反逆の起業家」の野望.md",
+    "Zettelkasten/LiteratureNote/美和、瀧本　哲史-ゼロ・トゥ・ワン　君はゼロから何を生み出せるか.md",
+    "Zettelkasten/LiteratureNote/よしあき-博報堂クリエイティブプロデューサーが明かす 「質問力」って、じつは仕事を有利に進める最強のスキルなんです。.md",
+    "Zettelkasten/LiteratureNote/耕司-NEW SALES――新時代の営業に必要な7つの原則.md",
+    "Zettelkasten/LiteratureNote/今井晶也-お客様が教えてくれた「されたい」営業.md",
+    "Zettelkasten/LiteratureNote/晶也-Ｓａｌｅｓ　ｉｓ　科学的に成果をコントロールする営業術.md",
+    "Zettelkasten/LiteratureNote/樺沢紫苑-神・時間術.md",
+    "Zettelkasten/LiteratureNote/秩嘉-ユーザーファースト　穐田誉輝とくふうカンパニー――食べログ、クックパッドを育てた男.md",
+    "Zettelkasten/LiteratureNote/功-具体と抽象.md",
+    "Zettelkasten/LiteratureNote/紀行-売上の地図　3万人を指導したマーケティングの人気講師が教える「売上」を左右する20のヒント.md",
+    "Zettelkasten/LiteratureNote/神田昌典-非常識な成功法則【新装版】.md",
+    "Zettelkasten/LiteratureNote/昌典-６０分間・企業ダントツ化プロジェクト.md",
+    "MEMO",
+    "Welcome.md",
+    "Daily",
+    "Zettelkasten/Indexnote",
+    "Zettelkasten/LiteratureNote",
+    "Zettelkasten/FleetingNote",
+    "Zettelkasten/PermanentNote",
+    "Zettelkasten"
+  ]
+}
