@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/ObsidianとGitHubの連携ガイド：初心者向け.md",
+                "file": "Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ObsidianとGitHubの連携ガイド：初心者向け"
+              "title": "単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer"
             }
           }
         ]
@@ -188,10 +188,12 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "74d2424e16fbcd4d",
+  "active": "9804a121fc4508fa",
   "lastOpenFiles": [
-    "Zettelkasten/FleetingNote/gitとobisidianの連携.md",
+    "Clippings/Obsidian×Cursorの活用方法：知的生産のシナジーを最大化｜Shin.md",
+    "Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
     "Clippings/ObsidianとGitHubの連携ガイド：初心者向け.md",
+    "Zettelkasten/FleetingNote/gitとobisidianの連携.md",
     "Clippings",
     "Zettelkasten/LiteratureNote/佐藤航陽-お金2.0　新しい経済のルールと生き方.md",
     "Zettelkasten/LiteratureNote/安宅和人-イシューからはじめよ――知的生産の「シンプルな本質」.md",
