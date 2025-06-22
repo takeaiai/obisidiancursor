@@ -10,40 +10,24 @@ tags:
   - clippings
   - obsidian
   - cursor
-  - content_creation
-  - ai_assistant
-  - writing_workflow
-  - knowledge_network
-  - bidirectional_link
-  - flat_structure
-  - plugin_ecosystem
-  - graph_view
-  - markdown
-  - file_management
-  - information_organization
   - zettelkasten
-  - fleeting_note
-  - literature_note
-  - permanent_note
-  - index_note
+  - knowledge_management
+  - productivity
+  - information_organization
   - web_clipper
-  - article_writing
-  - idea_generation
-  - knowledge_systematization
+  - ai_assistant
   - chatgpt
   - o3_model
-  - excalibrain
-  - graphview
-  - note_quality
-  - ai_output
-  - content_quality
-  - information_flow
-  - insight_feedback
-  - knowledge_utilization
-  - content_editing
-  - proofreading
-  - knowledge_mapping
-  - index_creation
+  - markdown
+  - technology
+  - automation
+  - value_creation
+  - innovation
+  - competitive_advantage
+  - communication
+  - strategic_thinking
+  - methodology_selection
+  - data_persistence
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/189225462/rectangle_large_type_2_eff0b068ee1620e29f9f56e41800b8db.png?width=1200)
 

@@ -1,0 +1,10 @@
+{
+  "noteFolderPath": "LINE",
+  "vaultId": "LINEtake",
+  "lineUserId": "Ufe2018178fc3ecef4908245d57f0e1bc",
+  "autoSync": true,
+  "syncInterval": 1,
+  "syncOnStartup": true,
+  "organizeByDate": false,
+  "fileNameTemplate": "{date}-{messageId}"
+}

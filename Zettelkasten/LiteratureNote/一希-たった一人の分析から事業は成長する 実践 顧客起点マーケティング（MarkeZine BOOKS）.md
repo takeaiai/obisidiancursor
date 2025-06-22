@@ -11,23 +11,20 @@ tags:
   - literature_note
   - kindle_highlight
   - marketing
-  - business
-  - customer_centric
-  - communication_idea
-  - product_benefit
-  - advertising
-  - customer_loyalty
-  - trial_reason
-  - business_growth
-  - customer_analysis
   - marketing_strategy
-  - customer_behavior
   - product_marketing
-  - customer_retention
-  - marketing_effectiveness
-  - customer_insight
+  - advertising
+  - customer_centric
+  - business
   - business_development
-  - customer_relationship
+  - customer_analysis
+  - customer_behavior
+  - customer_engagement
+  - customer_insight
+  - value_creation
+  - competitive_advantage
+  - information_analysis
+  - strategic_thinking
 ---
 # たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）
 ## Metadata

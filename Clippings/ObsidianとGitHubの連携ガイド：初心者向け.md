@@ -11,32 +11,12 @@ tags:
   - obsidian
   - git
   - github_integration
-  - version_control
-  - backup
   - cloud_sync
-  - multi_device_sync
-  - file_recovery
-  - repository
-  - commit
-  - push
-  - pull
-  - personal_access_token
-  - obsidian_git
-  - auto_backup
-  - auto_push
-  - authentication
-  - setup_guide
-  - beginner_guide
-  - troubleshooting
-  - git_installation
-  - repository_creation
-  - remote_connection
-  - local_repository
-  - change_history
-  - file_versioning
-  - collaboration
+  - mobile_sync
+  - technology
+  - automation
+  - ci_cd
   - data_persistence
-  - workflow_integration
 ---
 ## はじめに
 

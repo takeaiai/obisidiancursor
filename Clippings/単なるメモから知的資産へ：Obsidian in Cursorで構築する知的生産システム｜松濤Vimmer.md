@@ -13,50 +13,21 @@ tags:
   - zettelkasten
   - knowledge_management
   - productivity
-  - workflow
-  - ai_assistant
-  - markdown
-  - note_taking
   - information_organization
-  - permanent_note
-  - literature_note
-  - fleeting_note
+  - web_clipper
   - github_integration
   - s3_storage
+  - cloud_sync
   - mobile_sync
-  - web_clipper
   - kindle_integration
   - anki_integration
-  - slidev
-  - audiobook
-  - google_calendar
-  - tag_management
-  - bidirectional_link
-  - graph_view
-  - plugin_ecosystem
-  - local_storage
-  - cloud_sync
+  - line_integration
+  - ai_assistant
+  - markdown
+  - technology
   - automation
   - ci_cd
-  - aws
-  - line_integration
-  - ebook2audiobook
-  - obsidian_git
-  - s3_image_uploader
-  - remotely_save
-  - obsidian_mobile
-  - obsidian_to_anki
-  - mermaid
-  - drawio
-  - github_action
-  - google_calendar_mcp
-  - uithub
-  - duolingo
-  - thino
-  - excalibrain
-  - graphview
-  - obsidian_web_clipper
-  - kindle_highlights
+  - data_persistence
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/178601756/rectangle_large_type_2_b448040bae884a4c13339e1e95bd0b2e.png?width=1200)
 
