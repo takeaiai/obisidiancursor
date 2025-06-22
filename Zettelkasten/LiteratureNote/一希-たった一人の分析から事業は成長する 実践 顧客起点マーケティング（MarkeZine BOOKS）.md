@@ -7,6 +7,27 @@ kindle-sync:
   lastAnnotatedDate: '2021-07-06'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81p5idQhDbL._SY160.jpg'
   highlightsCount: 2
+tags:
+  - literature_note
+  - kindle_highlight
+  - marketing
+  - business
+  - customer_centric
+  - communication_idea
+  - product_benefit
+  - advertising
+  - customer_loyalty
+  - trial_reason
+  - business_growth
+  - customer_analysis
+  - marketing_strategy
+  - customer_behavior
+  - product_marketing
+  - customer_retention
+  - marketing_effectiveness
+  - customer_insight
+  - business_development
+  - customer_relationship
 ---
 # たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）
 ## Metadata
