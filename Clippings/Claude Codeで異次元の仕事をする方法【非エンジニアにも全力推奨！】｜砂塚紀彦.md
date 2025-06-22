@@ -8,7 +8,27 @@ created: 2025-06-22
 description: 何時間も自走して仕事するAIの構築方法  ChatGPT等のAIツールを活用して生産性を上げている皆様に、最先端ツールの1つである『Claude Code』を使って、AIに人間離れした仕事を何時間も自走してやってもらう方法をご紹介します！  Claude Codeは「エージェント型コーディングツール」と公式ドキュメントが謳っている通り、主にエンジニアが開発に使うツールだと思われがちですが、知的労働を行うあらゆる職種の人の仕事を何段階もレベルアップする可能性を秘めたツールです。  今回はAIが何時間もかけて様々な職種のプロフェッショナルな知恵をフル活用して企画書を磨き上げていく仕事の自動
 tags:
   - clippings
-  - claude
+  - ai_assistant
+  - chatgpt
+  - o3_model
+  - technology
+  - automation
+  - productivity
+  - efficiency_improvement
+  - business
+  - business_development
+  - business_philosophy
+  - value_creation
+  - innovation
+  - competitive_advantage
+  - strategic_thinking
+  - methodology_selection
+  - information_organization
+  - knowledge_management
+  - professional_work
+  - professional_development
+  - system_thinking
+  - data_persistence
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/197323537/rectangle_large_type_2_8ecfa1694965b1b7c38b1ef923bc228d.png?width=1200)
 
