@@ -1,30 +1,17 @@
 ---
-kindle-sync:
-  bookId: '51391'
-  title: たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）
-  author: 西口 一希
-  asin: B07P6XKQ14
-  lastAnnotatedDate: '2021-07-06'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81p5idQhDbL._SY160.jpg'
-  highlightsCount: 2
+title: "たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）"
+source: "一希"
+author:
+  - "[[一希]]"
+published: 
+created: 2025-06-22
+description: 
 tags:
   - literature_note
-  - kindle_highlight
   - marketing
-  - marketing_strategy
-  - product_marketing
-  - advertising
-  - customer_centric
-  - business
-  - business_development
-  - customer_analysis
-  - customer_behavior
-  - customer_engagement
-  - customer_insight
-  - value_creation
-  - competitive_advantage
-  - information_analysis
-  - strategic_thinking
+  - business_strategy
+  - productivity
+  - case_study
 ---
 # たった一人の分析から事業は成長する 実践 顧客起点マーケティング（MarkeZine BOOKS）
 ## Metadata

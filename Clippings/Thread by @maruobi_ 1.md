@@ -8,9 +8,11 @@ created: 2025-06-22
 description: 
 tags:
   - clippings
-  - ai_assistant
-  - business
-  - business_development
+  - ai_technology
+  - business_strategy
+  - business_philosophy
+  - marketing
+  - case_study
 ---
 **SaaS飯** @maruobi\_ [2025-06-20](https://x.com/maruobi_/status/1936197663286088093)
 

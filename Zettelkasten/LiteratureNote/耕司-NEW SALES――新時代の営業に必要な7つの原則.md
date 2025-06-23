@@ -1,12 +1,16 @@
 ---
-kindle-sync:
-  bookId: '38956'
-  title: NEW SALES――新時代の営業に必要な7つの原則
-  author: 麻野 耕司
-  asin: B09VGRKLX5
-  lastAnnotatedDate: '2022-06-10'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81VIoSF9ucL._SY160.jpg'
-  highlightsCount: 2
+title: "NEW SALES――新時代の営業に必要な7つの原則"
+source: "耕司"
+author:
+  - "[[耕司]]"
+published: 
+created: 2025-06-22
+description: 
+tags:
+  - literature_note
+  - sales
+  - business_strategy
+  - case_study
 ---
 # NEW SALES――新時代の営業に必要な7つの原則
 ## Metadata

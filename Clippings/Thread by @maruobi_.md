@@ -8,8 +8,9 @@ created: 2025-06-22
 description: 
 tags:
   - clippings
-  - business
+  - business_strategy
   - marketing
+  - case_study
 ---
 **ふんばり** @funbari\_dog [2025-06-21](https://x.com/funbari_dog/status/1936313980567625826)
 

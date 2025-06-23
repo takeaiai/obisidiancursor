@@ -1,12 +1,16 @@
 ---
-kindle-sync:
-  bookId: '58124'
-  title: HARD THINGS　答えがない難問と困難にきみはどう立ち向かうか
-  author: ベン ホロウィッツ、滑川 海彦、高橋 信夫、小澤 隆生（序文）
-  asin: B00W535LOU
-  lastAnnotatedDate: '2021-08-16'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81737VhzTrL._SY160.jpg'
-  highlightsCount: 22
+title: "HARD THINGS　答えがない難問と困難にきみはどう立ち向かうか"
+source: "隆生（序文）"
+author:
+  - "[[隆生]]"
+published: 
+created: 2025-06-22
+description: 
+tags:
+  - literature_note
+  - career_development
+  - business_philosophy
+  - case_study
 ---
 # HARD THINGS　答えがない難問と困難にきみはどう立ち向かうか
 ## Metadata

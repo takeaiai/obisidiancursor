@@ -8,38 +8,15 @@ created: 2025-06-23
 description: "Claude Codeが変えた開発の風景  Claude Codeを使い始めて約1ヶ月経ちますが「Claude Codeを使ってから、開発の概念が根本的に変わった」と僕は思ってる。  ClineやCursor Agentの登場でもでも相当変わったと思う。でもClaude Codeはそれ以上の変化だと僕は感じている。何が根本的に違うのか。       自走力の高いClaude Code - ファイルを読み、修正し、テストを実行し、エラーを解決する。まるでペアプロしているような体験。    コードを書く能力が高いClaude 4 Opus - 複雑なロジックも正確に実装できる圧倒的なコード"
 tags:
   - clippings
-  - ai_assistant
-  - chatgpt
-  - o3_model
-  - technology
-  - automation
-  - productivity
-  - efficiency_improvement
-  - business
-  - business_development
+  - ai_technology
+  - claude
+  - cursor
+  - business_strategy
   - business_philosophy
-  - value_creation
-  - innovation
-  - competitive_advantage
-  - strategic_thinking
-  - methodology_selection
-  - information_organization
-  - knowledge_management
-  - professional_work
-  - professional_development
-  - system_thinking
-  - data_persistence
+  - productivity
   - career_development
-  - skill_development
-  - market_analysis
-  - positioning_strategy
-  - industry_trends
-  - future_of_work
-  - digital_transformation
-  - software_engineering
-  - architecture_design
-  - domain_expertise
-  - business_integration
+  - knowledge_management
+  - case_study
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/197611055/rectangle_large_type_2_a981561b24ea51b02c900bf5941cf776.png?width=1200)
 
