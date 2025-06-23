@@ -140,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025-06-23.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-06-23のアウトライン"
             }
           },
           {
-            "id": "74d2424e16fbcd4d",
+            "id": "479a3476c7291a99",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -157,19 +158,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "468d867625264474",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,13 +174,17 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false,
       "line-notes-sync:Sync LINE messages": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "9804a121fc4508fa",
+  "active": "b5d62895a0c6a8b1",
   "lastOpenFiles": [
+    "Zettelkasten/LiteratureNote/秩嘉-ユーザーファースト　穐田誉輝とくふうカンパニー――食べログ、クックパッドを育てた男-1750668039972.md",
+    "Zettelkasten/LiteratureNote/功-具体と抽象-1750668036971.md",
+    "Zettelkasten/LiteratureNote/紀行-売上の地図　3万人を指導したマーケティングの人気講師が教える「売上」を左右する20のヒント-1750668033977.md",
+    "Zettelkasten/LiteratureNote/神田昌典-非常識な成功法則【新装版】-1750668031089.md",
+    "Zettelkasten/LiteratureNote/昌典-６０分間・企業ダントツ化プロジェクト-1750668026848.md",
     "2025-06-23.md",
     "Zettelkasten/LiteratureNote/今井晶也-お客様が教えてくれた「されたい」営業.md",
     "Clippings/Claude Codeで異次元の仕事をする方法【非エンジニアにも全力推奨！】｜砂塚紀彦.md",
@@ -214,12 +209,7 @@
     "MEMO/LINE/LINE",
     "MEMO/LINE",
     "Zettelkasten/LiteratureNote/安宅和人-イシューからはじめよ――知的生産の「シンプルな本質」.md",
-    "Zettelkasten/LiteratureNote/よしあき-博報堂クリエイティブプロデューサーが明かす 「質問力」って、じつは仕事を有利に進める最強のスキルなんです。.md",
-    "Clippings/単なるメモから知的資産へ：Obsidian in Cursorで構築する知的生産システム｜松濤Vimmer.md",
-    "Zettelkasten/FleetingNote/gitとobisidianの連携.md",
     "Clippings",
-    "Zettelkasten/LiteratureNote/佐藤航陽-お金2.0　新しい経済のルールと生き方.md",
-    "Zettelkasten/LiteratureNote/奉之-ＳＨＯＥ　ＤＯＧ（シュードッグ）―靴にすべてを。.md",
     "MEMO",
     "Daily",
     "Zettelkasten/Indexnote",
