@@ -11,10 +11,14 @@
             "id": "9804a121fc4508fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-23"
             }
           }
         ]
@@ -186,6 +190,7 @@
   },
   "active": "9804a121fc4508fa",
   "lastOpenFiles": [
+    "2025-06-23.md",
     "Zettelkasten/LiteratureNote/今井晶也-お客様が教えてくれた「されたい」営業.md",
     "Clippings/Claude Codeで異次元の仕事をする方法【非エンジニアにも全力推奨！】｜砂塚紀彦.md",
     "Clippings/ObsidianとGitHubの連携ガイド：初心者向け.md",
@@ -215,7 +220,6 @@
     "Clippings",
     "Zettelkasten/LiteratureNote/佐藤航陽-お金2.0　新しい経済のルールと生き方.md",
     "Zettelkasten/LiteratureNote/奉之-ＳＨＯＥ　ＤＯＧ（シュードッグ）―靴にすべてを。.md",
-    "Zettelkasten/LiteratureNote/ジェイソン・カラカニス、滑川海彦、高橋信夫、孫泰蔵-エンジェル投資家 リスクを大胆に取り巨額のリターンを得る人は何を見抜くのか.md",
     "MEMO",
     "Daily",
     "Zettelkasten/Indexnote",
