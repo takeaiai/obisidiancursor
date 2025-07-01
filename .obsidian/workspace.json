@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Gemini CLI の簡単チュートリアル.md",
+                "file": "2025-07-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemini CLI の簡単チュートリアル"
+              "title": "2025-07-01"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Gemini CLI の簡単チュートリアル.md",
+                "file": "2025-07-01.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gemini CLI の簡単チュートリアルのアウトライン"
+              "title": "2025-07-01のアウトライン"
             }
           },
           {
@@ -218,11 +218,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb8fe4d373d4b44",
+  "active": "c546918190678bc6",
   "lastOpenFiles": [
+    "Clippings/Gemini CLI の簡単チュートリアル.md",
+    "2025-07-01.md",
     "LINE/2025-06-28-567483305209889229.md",
     "Daily/2025-06-22.md",
-    "Clippings/Gemini CLI の簡単チュートリアル.md",
     "Daily/2025-06-23.md",
     "Daily/2025-06-26.md",
     "Daily/2025-06-24.md",
@@ -246,7 +247,6 @@
     "MEMO/LINE/LINE/2025-06-22-566641097624518759.md",
     "MEMO/LINE/LINE/2025-06-22-566640481430405398.md",
     "MEMO/LINE/LINE/2025-06-22-566640239251816891.md",
-    "Clippings/Thread by @maruobi_.md",
     "MEMO/LINE/LINE",
     "MEMO/LINE",
     "Clippings",
