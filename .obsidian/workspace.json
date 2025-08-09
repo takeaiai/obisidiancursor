@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "115fc4e2a23ca0ce",
+        "id": "9cf7e2ac75a4c98f",
         "type": "tabs",
         "children": [
           {
-            "id": "29873f63c5fdea8a",
+            "id": "84e16b1f6979696f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/PermanentNote/Cursorで業務フロー作成の完全ガイド.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "Cursorで業務フロー作成の完全ガイド"
             }
           }
         ]
@@ -185,10 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb8fe4d373d4b44",
+  "active": "84e16b1f6979696f",
   "lastOpenFiles": [
-    "LINE/2025-07-04-568411140787273808.md",
     "Zettelkasten/PermanentNote/Cursorで業務フロー作成の完全ガイド.md",
+    "LINE/2025-07-04-568411140787273808.md",
     "Zettelkasten/PermanentNote/業務フロー作る",
     "Zettelkasten/FleetingNote/Cursorで業務フロー作成の実践方法.md",
     "業務フロー作る",
