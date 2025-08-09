@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/非エンジニアでもできる！AI駆動PMの可能性　〜 Obsidian × Cursor 〜｜すぅ  AI駆動PM.md",
+                "file": "LINE/2025-07-04-568411140787273808.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "非エンジニアでもできる！AI駆動PMの可能性　〜 Obsidian × Cursor 〜｜すぅ  AI駆動PM"
+              "title": "2025-07-04-568411140787273808"
             }
           }
         ]
@@ -189,11 +189,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1e8ea03a3caff15",
+  "active": "3cb8fe4d373d4b44",
   "lastOpenFiles": [
+    "LINE/2025-07-05-568511038707466360.md",
+    "Clippings/非エンジニアでもできる！AI駆動PMの可能性　〜 Obsidian × Cursor 〜｜すぅ  AI駆動PM.md",
+    "Business",
+    "Business/takebiz",
+    "無題のファイル.md",
+    "Business/MY",
+    "Business/SOEL",
     "Zettelkasten/PermanentNote/プロジェクト計画書テンプレート.md",
     "Zettelkasten/PermanentNote/プロジェクト計画書作成プロンプト.md",
-    "Clippings/非エンジニアでもできる！AI駆動PMの可能性　〜 Obsidian × Cursor 〜｜すぅ  AI駆動PM.md",
     "Clippings/CursorとMarpを活用した爆速スライド作成術｜すぅ  AI駆動PM.md",
     "Clippings/【非エンジニアでもできる】Github×Cursor×Obsidian設定マニュアル〜非エンジニアでもできる〜｜すぅ  AI駆動PM.md",
     "Clippings/Cursorで業務フローをつくる｜すぅ  AI駆動PM.md",
@@ -213,19 +219,12 @@
     "Clippings/Thread by @funbari_dog.md",
     "FleetingNote",
     "LiteratureNote",
-    "無題のファイル.md",
     "PermnetNote",
     "Daily/2025-06-22.md",
     "2025-07-01.md",
-    "LINE/2025-07-05-568511038707466360.md",
     "LINE/2025-07-04-568411140787273808.md",
-    "LINE/2025-07-04-568340426315006401.md",
     "MEMO/LINE/LINE/LINE",
     "MEMO/LINE/LINE",
-    "MEMO/LINE",
-    "Clippings",
-    "MEMO",
-    "Daily",
-    "Zettelkasten/Indexnote"
+    "MEMO/LINE"
   ]
 }
