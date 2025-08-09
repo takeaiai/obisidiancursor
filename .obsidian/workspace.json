@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0b02d822fb7941",
+        "id": "115fc4e2a23ca0ce",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e8ea03a3caff15",
+            "id": "29873f63c5fdea8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LINE/2025-07-04-568411140787273808.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-04-568411140787273808"
+              "title": "新規タブ"
             }
           }
         ]
@@ -191,13 +187,15 @@
   },
   "active": "3cb8fe4d373d4b44",
   "lastOpenFiles": [
+    "LINE/2025-07-04-568411140787273808.md",
+    "Zettelkasten/PermanentNote/Cursorで業務フロー作成の完全ガイド.md",
+    "Zettelkasten/PermanentNote/業務フロー作る",
     "Zettelkasten/FleetingNote/Cursorで業務フロー作成の実践方法.md",
     "業務フロー作る",
     "LINE/2025-07-05-568511038707466360.md",
     "Clippings/非エンジニアでもできる！AI駆動PMの可能性　〜 Obsidian × Cursor 〜｜すぅ  AI駆動PM.md",
     "Business",
     "Business/takebiz",
-    "無題のファイル.md",
     "Business/MY",
     "Business/SOEL",
     "Zettelkasten/PermanentNote/プロジェクト計画書テンプレート.md",
@@ -224,8 +222,6 @@
     "PermnetNote",
     "Daily/2025-06-22.md",
     "2025-07-01.md",
-    "LINE/2025-07-04-568411140787273808.md",
-    "MEMO/LINE/LINE/LINE",
-    "MEMO/LINE/LINE"
+    "MEMO/LINE/LINE/LINE"
   ]
 }
