@@ -74,7 +74,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,13 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cb8fe4d373d4b44",
+  "active": "0c0c8f94ce292aa6",
   "lastOpenFiles": [
+    "Zettelkasten/PermanentNote/タグ管理の完全ガイド.md",
+    "Zettelkasten/FleetingNote/gitとobisidianの連携.md",
+    "Zettelkasten/FleetingNote/CursorとObsidianの連携による生産性向上.md",
+    "Zettelkasten/FleetingNote/Cursorで業務フロー作成の実践方法.md",
+    "Zettelkasten/FleetingNote/business_developmentタグについて.md",
+    "Zettelkasten/PermanentNote/プロジェクト計画書作成プロンプト.md",
+    "Zettelkasten/PermanentNote/プロジェクト計画書テンプレート.md",
     "Zettelkasten/PermanentNote/Cursorで業務フロー作成の完全ガイド.md",
     "Zettelkasten/Indexnote/Youtube運用.md",
     "LINE/2025-07-04-568411140787273808.md",
     "Zettelkasten/PermanentNote/業務フロー作る",
-    "Zettelkasten/FleetingNote/Cursorで業務フロー作成の実践方法.md",
     "業務フロー作る",
     "LINE/2025-07-05-568511038707466360.md",
     "Clippings/非エンジニアでもできる！AI駆動PMの可能性　〜 Obsidian × Cursor 〜｜すぅ  AI駆動PM.md",
@@ -203,15 +210,10 @@
     "Business/takebiz",
     "Business/MY",
     "Business/SOEL",
-    "Zettelkasten/PermanentNote/プロジェクト計画書テンプレート.md",
-    "Zettelkasten/PermanentNote/プロジェクト計画書作成プロンプト.md",
     "Clippings/CursorとMarpを活用した爆速スライド作成術｜すぅ  AI駆動PM.md",
     "Clippings/【非エンジニアでもできる】Github×Cursor×Obsidian設定マニュアル〜非エンジニアでもできる〜｜すぅ  AI駆動PM.md",
     "Clippings/Cursorで業務フローをつくる｜すぅ  AI駆動PM.md",
     "Clippings/Gemini CLI の簡単チュートリアル.md",
-    "Zettelkasten/FleetingNote/CursorとObsidianの連携による生産性向上.md",
-    "Zettelkasten/FleetingNote/gitとobisidianの連携.md",
-    "Zettelkasten/FleetingNote/business_developmentタグについて.md",
     "Clippings/エフェクチュエーションの5つの原則.md",
     "Clippings/Claude Code時代のソフトウェアエンジニア生存戦略｜suthio.md",
     "Clippings/Claude Codeで異次元の仕事をする方法【非エンジニアにも全力推奨！】｜砂塚紀彦.md",
@@ -225,7 +227,6 @@
     "FleetingNote",
     "LiteratureNote",
     "PermnetNote",
-    "Daily/2025-06-22.md",
     "MEMO/LINE/LINE/LINE"
   ]
 }
