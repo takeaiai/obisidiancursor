@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/PermanentNote/Cursorで業務フロー作成の完全ガイド.md",
+                "file": "Zettelkasten/Indexnote/Youtube運用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cursorで業務フロー作成の完全ガイド"
+              "title": "Youtube運用"
             }
           }
         ]
@@ -189,9 +189,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84e16b1f6979696f",
+  "active": "3cb8fe4d373d4b44",
   "lastOpenFiles": [
     "Zettelkasten/PermanentNote/Cursorで業務フロー作成の完全ガイド.md",
+    "Zettelkasten/Indexnote/Youtube運用.md",
     "LINE/2025-07-04-568411140787273808.md",
     "Zettelkasten/PermanentNote/業務フロー作る",
     "Zettelkasten/FleetingNote/Cursorで業務フロー作成の実践方法.md",
@@ -225,7 +226,6 @@
     "LiteratureNote",
     "PermnetNote",
     "Daily/2025-06-22.md",
-    "2025-07-01.md",
     "MEMO/LINE/LINE/LINE"
   ]
 }
