@@ -1,6 +1,4 @@
-#youtube #index_note #marketing #content_strategy #business_development #digital_marketing #branding
-
-#
+#youtube #marketing #business_development #productivity #framework
 
 YouTubeチャンネルの運営において、今絶対にやるべきことは、コンセプト設計などの上流部分と、YouTubeの設定などのテクニック的な部分に分けて考えることができます。
 
